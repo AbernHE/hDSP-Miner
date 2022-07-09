@@ -1,0 +1,9 @@
+PP:H,K,R
+PA:D,E
+PU:S,T,N,Q
+NL:A,V,L,I,M
+NR:F,Y,W
+SM:P,G
+SO:C
+SH:B,Z
+UN:X

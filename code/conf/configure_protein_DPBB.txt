@@ -1,0 +1,9 @@
+ALPHA>0.85
+BETA>0.3
+GAP>0,5
+LEVEL>3
+splittoken>
+posFname>./data/DPBB_Barwin.txt
+negFname>./data/DPBB_Ceratp-platanin.txt
+ConceptDir>./data/concept/protein/
+conceptFile>0.txt, 1.txt
